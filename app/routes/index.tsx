@@ -1,7 +1,7 @@
 import { ActionFunction, Form } from "remix";
 
 export const action: ActionFunction = async () => {
-  throw new Error("Sentry Error");
+  throw new TypeError("Sentry Error");
 };
 
 export default function Index() {
