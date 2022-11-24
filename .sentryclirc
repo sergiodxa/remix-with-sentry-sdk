@@ -1,6 +1,6 @@
 [auth]
-token=d915e7d3b0d94ce989b7eeb1a00ac84aab8d63d051f24ae39db9ddd1976c94b6
+token=[replace with a valid token]
 
 [defaults]
-org=sergio-xalambri
-project=remix
+org=[your org slug]
+project=[your project slug]
